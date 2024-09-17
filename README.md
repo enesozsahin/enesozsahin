@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesozsahin
 - 👀 I’m interested in gamedev, AI, Data science
-- 🌱 I’m currently learning unity game development and Python
+- 🌱 Currently working on AI models and algorithms
 
 <!---
 enesozsahin/enesozsahin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
